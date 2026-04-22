@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="studioTitle studioDesc">
+  <title id="studioTitle">スタジオ学習プレースホルダー</title>
+  <desc id="studioDesc">円と線で教室と制作活動を抽象表現した仮画像</desc>
+  <rect width="720" height="480" fill="#f5f5f5"/>
+  <rect x="80" y="80" width="560" height="320" fill="none" stroke="#333" stroke-width="4"/>
+  <circle cx="210" cy="230" r="88" fill="none" stroke="#0a0a0a" stroke-width="4"/>
+  <circle cx="390" cy="230" r="72" fill="none" stroke="#999" stroke-width="4"/>
+  <circle cx="530" cy="230" r="54" fill="none" stroke="#333" stroke-width="4"/>
+  <path d="M80 400 C210 350 350 350 640 400" fill="none" stroke="#999" stroke-width="3"/>
+</svg>
