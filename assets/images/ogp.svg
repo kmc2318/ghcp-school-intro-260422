@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fff"/>
+  <circle cx="290" cy="180" r="130" fill="none" stroke="#0a0a0a" stroke-width="6"/>
+  <circle cx="920" cy="460" r="170" fill="none" stroke="#333" stroke-width="4"/>
+  <path d="M140 500 C360 380 470 380 700 500" fill="none" stroke="#0a0a0a" stroke-width="3"/>
+  <text x="140" y="290" font-family="Inter, sans-serif" font-size="66" fill="#0a0a0a" letter-spacing="2">
+    神山まるごと高専
+  </text>
+  <text x="140" y="362" font-family="Noto Sans JP, sans-serif" font-size="34" fill="#333">
+    Technology × Design × Entrepreneurship
+  </text>
+</svg>
